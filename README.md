@@ -1,1 +1,1 @@
-# js-assigment6
+This is js assigment 6
